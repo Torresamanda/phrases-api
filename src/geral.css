@@ -6,8 +6,5 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  background-image: url("./Imagens/background.webp");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+  background-color: #263149;
 }

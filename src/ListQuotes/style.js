@@ -5,8 +5,6 @@ export const Container = styled.div`
   justify-content: center;
   align-items: center;
   flex-direction: column;
-
-  
 `
 
 export const Table = styled.table`
@@ -16,6 +14,11 @@ export const Table = styled.table`
   margin: 20px;
   background-color: #ECEDEF;
   border-radius: 10px;
+
+  @media(max-width: 1300px) {
+    height: 80vh;
+  }
+
 `
 
 export const TableHead = styled.thead`
