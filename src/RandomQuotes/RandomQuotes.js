@@ -40,8 +40,8 @@ export default function Random() {
             <Img src={quoteRight} alt="" />
           </Quote>
         </Phrase>
-        <Author> - {citacao.author ? citacao.author : "Desconhecido"}</Author>
-        <Button onClick={getCitacoes}>Nova Citação</Button>
+        <Author> - {citacao.author ? citacao.author : "Unknown"}</Author>
+        <Button onClick={getCitacoes}>New Quote</Button>
       </Main>
     </Container>
   );
