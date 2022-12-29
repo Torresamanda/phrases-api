@@ -1,8 +1,8 @@
 # Phrases API
 
-<p>Esse projeto foi contruído com intuito de teste meus conhecimentos em javascript, foi utilizado estruturação de componentes e o styled-components para estilziação.</p>
+<p>Esse projeto foi construído com intuito de testar meus conhecimentos em javascript, foi utilizado estruturação de componentes e o styled-components para estilziação.</p>
 
-<p>É um página, sendo a principal onde pode se obter uma frase aleatória e clicando no botão "Phrases List" você pode visualizar a lista de todas frases disponíveis na api</p>
+<p>É uma página onde a principal pode se obter uma frase aleatória e clicando no botão "Phrases List" você pode visualizar a lista de todas frases disponíveis na api em ordem alfabética</p>
 
 <div>
     <img alt="Readme" title="Readme" align="center" src="./src/Imagens/animacao2.gif"> 
